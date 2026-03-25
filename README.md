@@ -4,7 +4,7 @@
 
 ```
 BDRoad-Sense/
-│── images/              # Resized original images (1024×1024)
+│── Original_images/    # Resized original images (1024×1024)
 │── augmented_images/   # Augmented images
 │── metadata.csv
 ```
@@ -29,7 +29,7 @@ This dataset is released under the **[specify license, e.g., CC BY 4.0]**.
 
 ## How to Download
 
-1. Go to the repository: https://data.mendeley.com/drafts/z3nx8n396g
+1. Go to the repository: https://data.mendeley.com/datasets/z3nx8n396g/2
 2. Download & use
 
 
