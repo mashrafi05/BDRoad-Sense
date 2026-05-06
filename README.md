@@ -1,12 +1,41 @@
 # BDRoad-Sense Dataset
+_______________________
 
-## Dataset Structure
+## Dataset Structure:
 
 ```
-BDRoad-Sense/
-│── Original_images/    # Resized original images (1024×1024)
-│── augmented_images/   # Augmented images
-│── metadata.csv
+BDRoad-Sense Dataset Structure
+
+Data/
+│
+├── augmented_train/
+│   ├── Major Damage/
+│   ├── Manhole/
+│   ├── Minor Damage/
+│   ├── Normal Road/
+│   └── Speed Breaker/
+│
+├── train/
+│   ├── Major Damage/
+│   ├── Manhole/
+│   ├── Minor Damage/
+│   ├── Normal Road/
+│   └── Speed Breaker/
+│
+├── val/
+│   ├── Major Damage/
+│   ├── Manhole/
+│   ├── Minor Damage/
+│   ├── Normal Road/
+│   └── Speed Breaker/
+│
+└── test/
+├── Major Damage/
+├── Manhole/
+├── Minor Damage/
+├── Normal Road/
+└── Speed Breaker/
+
 ```
 
 ---
@@ -16,7 +45,7 @@ BDRoad-Sense/
 * Image format: .JPG
 * Resolution: 1024 × 1024
 * Original images: 6,350 (resized)
-* Total images: 12,687 (including augmented)
+* Total images: 9107 (including augmented)
 * Metadata: CSV file with image path, class label, location, area type, and device
 
 ---
