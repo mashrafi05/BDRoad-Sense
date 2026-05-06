@@ -1,0 +1,14 @@
+Model : ResNet18  |  Run : 2
+Test Accuracy : 89.66%
+
+               precision    recall  f1-score   support
+
+ Major Damage     0.8935    0.8935    0.8935       310
+      Manhole     0.9878    0.9643    0.9759        84
+ Minor Damage     0.8009    0.7828    0.7918       221
+  Normal Road     0.9043    0.9450    0.9242       200
+Speed Breaker     0.9857    0.9718    0.9787       142
+
+     accuracy                         0.8966       957
+    macro avg     0.9145    0.9115    0.9128       957
+ weighted avg     0.8964    0.8966    0.8963       957

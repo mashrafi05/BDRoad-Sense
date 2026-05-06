@@ -1,0 +1,14 @@
+Model : ViT  |  Run : 1
+Test Accuracy : 86.21%
+
+               precision    recall  f1-score   support
+
+ Major Damage     0.8595    0.8484    0.8539       310
+      Manhole     1.0000    0.9405    0.9693        84
+ Minor Damage     0.7126    0.7964    0.7521       221
+  Normal Road     0.9171    0.8850    0.9008       200
+Speed Breaker     0.9848    0.9155    0.9489       142
+
+     accuracy                         0.8621       957
+    macro avg     0.8948    0.8771    0.8850       957
+ weighted avg     0.8685    0.8621    0.8644       957

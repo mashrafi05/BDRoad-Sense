@@ -1,0 +1,14 @@
+Model : Swin  |  Run : 3
+Test Accuracy : 89.34%
+
+               precision    recall  f1-score   support
+
+ Major Damage     0.9103    0.8839    0.8969       310
+      Manhole     0.9882    1.0000    0.9941        84
+ Minor Damage     0.7623    0.8416    0.8000       221
+  Normal Road     0.9418    0.8900    0.9152       200
+Speed Breaker     0.9638    0.9366    0.9500       142
+
+     accuracy                         0.8934       957
+    macro avg     0.9133    0.9104    0.9112       957
+ weighted avg     0.8975    0.8934    0.8947       957

@@ -1,0 +1,14 @@
+Model : CNN  |  Run : 2
+Test Accuracy : 72.10%
+
+               precision    recall  f1-score   support
+
+ Major Damage     0.7517    0.7129    0.7318       310
+      Manhole     0.8090    0.8571    0.8324        84
+ Minor Damage     0.5596    0.5520    0.5558       221
+  Normal Road     0.8131    0.8050    0.8090       200
+Speed Breaker     0.7215    0.8028    0.7600       142
+
+     accuracy                         0.7210       957
+    macro avg     0.7310    0.7460    0.7378       957
+ weighted avg     0.7207    0.7210    0.7203       957

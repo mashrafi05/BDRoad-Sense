@@ -1,0 +1,6 @@
+True \ Predicted,Major Damage,Manhole,Minor Damage,Normal Road,Speed Breaker
+Major Damage,277.3,0.3,29.7,0.7,2
+Manhole,0,84,0,0,0
+Minor Damage,21.3,0,184.7,14.7,0.3
+Normal Road,0,0,12.7,187.3,0
+Speed Breaker,2.7,0,5,0,134.3
